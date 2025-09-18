@@ -8,7 +8,7 @@ _This is a research-based project focusing on advanced drone detection and track
 ## Agenda  
 
 ### **Problem Identification**  
-_Rising threats from unauthorized and hostile drones in restricted airspace._  
+_Rising threats from unauthorized and hostile drones in restricted airspace._ 
 _Need for reliable, real-time detection and neutralization systems._  
 
 ### **Objective**  
